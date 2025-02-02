@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Freddy, a frontend developer 👨‍💻 working remotely since 2024 🚀</div>  
+### <div align="center">I'm Freddy, a frontend developer 👨‍💻 studying since 2024 🚀</div>  
   
 
 <br/>  
